@@ -54,7 +54,7 @@ Distributed under the MIT License.
 ## Contributors
 
   - Antonin Perrin      -     [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/antonin-perrin-6b9060197/)<br>
-  - Nathan Rinalduzzi   -     [@Natmad1](https://twitter.com/Natmad1)  [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/nathan-rinalduzzi-388b52197/)<br>
+  - Nathan Rinalduzzi   -     [@Natmad1](https://twitter.com/Natmad1)  [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/nathan-rinalduzzi/)<br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
