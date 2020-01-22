@@ -8,7 +8,7 @@
 <h1 align="center">StegaSoft</h1>
 <p align="center"><img src=https://github.com/perriguigui/StegaSoft/blob/master/StegaSoft/Assets/Square71x71Logo.scale-400.png></p>
 <p align="center">
-    A soft to hide or unhide information inside a picture ideal if you want to hide some sensitive data.
+    A soft to hide or unhide information inside a picture, ideal if you want to hide some sensitive data.
     <br /><br />
 </p>
 
